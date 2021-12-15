@@ -1,0 +1,15 @@
+.DS_Store
+## .idea no need to in
+*.iml
+!/.idea
+/.idea/*
+## logs no need to in
+!/logs
+/logs/*
+## target no need to in
+!/target/*
+/target/*
+## iml file no needed
+*/*.iml
+*/target/
+/core/generated/
